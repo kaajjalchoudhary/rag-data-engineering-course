@@ -1,0 +1,10 @@
+[
+  {"question": "How many days do I have to request a refund?", "relevant_doc": "refund_policy"},
+  {"question": "Are shipping fees refunded?", "relevant_doc": "refund_policy"},
+  {"question": "How much does express shipping cost?", "relevant_doc": "shipping"},
+  {"question": "Do you ship outside the European Union?", "relevant_doc": "shipping"},
+  {"question": "Does the warranty cover water damage?", "relevant_doc": "warranty"},
+  {"question": "How long is the password reset link valid?", "relevant_doc": "account_security"},
+  {"question": "When is the support team available?", "relevant_doc": "support_contacts"},
+  {"question": "How do I start a return?", "relevant_doc": "returns_faq"}
+]
